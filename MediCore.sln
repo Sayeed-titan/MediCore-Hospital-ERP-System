@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediCore.API", "MediCore.API\MediCore.API.csproj", "{3BCF6365-3D4F-42DC-BB5A-C94F6CA13E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BCF6365-3D4F-42DC-BB5A-C94F6CA13E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCF6365-3D4F-42DC-BB5A-C94F6CA13E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCF6365-3D4F-42DC-BB5A-C94F6CA13E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCF6365-3D4F-42DC-BB5A-C94F6CA13E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557CEAE3-34E5-4D0A-9081-8BB409C4610E}
+	EndGlobalSection
+EndGlobal
